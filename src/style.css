@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  color: #dcd7d1;
+  font-family: sans-serif;
+  padding: 48px 64px;
+}
+ul {
+  list-style: none;
+}
